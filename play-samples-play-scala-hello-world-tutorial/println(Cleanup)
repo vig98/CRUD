@@ -1,0 +1,11 @@
+[info] Loading settings for project play-samples-play-scala-hello-world-tutorial-build from plugins.sbt,scaffold.sbt ...
+[info] Loading project definition from D:\latest\play-samples-play-scala-hello-world-tutorial\project
+[info] Loading settings for project root from build.sbt ...
+[info] Set current project to play-scala-seed (in build file:/D:/latest/play-samples-play-scala-hello-world-tutorial/)
+[error] Not a valid command: Test (similar: set, testProd, last)
+[error] Not a valid project ID: Test
+[error] Expected ':'
+[error] Expected '/'
+[error] Not a valid key: Test (similar: test, testOnly, dist)
+[error] Test
+[error]     ^

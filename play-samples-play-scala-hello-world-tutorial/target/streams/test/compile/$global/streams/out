@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\latest\play-samples-play-scala-hello-world-tutorial\test\controllers\getControllerSpec.scala:20:61: trait MockitoSugar in package mockito is deprecated: MockitoSugar has been moved from org.scalatest.mockito to org.scalatestplus.mockito. Please update your imports, as this deprecated type alias will be removed in a future version of ScalaTest.[0m
+[0m[[0m[33mwarn[0m] [0m[0mclass getControllerSpec extends FlatSpec with Matchers with MockitoSugar with ScalaFutures with GuiceOneAppPerSuite{[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
