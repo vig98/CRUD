@@ -2,21 +2,23 @@
 [0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
 [0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.[0m
-[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(controllers.getControllerSpec, sbt.ForkMain$SubclassFingerscan@4568b238, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(controllers.getControllerSpec, sbt.ForkMain$SubclassFingerscan@50abe55a, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mgetControllerSpec:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mgetController[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should take ids which are present[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mgetController[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should take ids which not present[0m[0m
-[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcreateController[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should created the record[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 3 events.[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 0 initial tasks for 0 tests.[0m
 [0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 3 seconds, 570 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 4 seconds, 222 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
-[0m[[0m[0minfo[0m] [0m[0mPassed: Total 2, Failed 0, Errors 0, Passed 2[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 3, Failed 0, Errors 0, Passed 3[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	controllers.getControllerSpec[0m
